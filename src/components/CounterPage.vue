@@ -28,7 +28,7 @@ export default {
             this.data = this.data - 1;
 
         },
-        IncBy5:function(value) {
+        IncBy5: function (value) {
             this.data = this.data + value
         }
     }
