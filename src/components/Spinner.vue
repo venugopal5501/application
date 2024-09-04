@@ -2,7 +2,7 @@
     <h1>Spinner Page</h1>
     <div>
         <img src="../assets/load-8510_256.gif" alt="" width="50" height="50">
-        </div>
+    </div>
 </template>
 <script>
 export default {
