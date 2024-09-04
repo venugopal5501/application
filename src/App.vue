@@ -3,9 +3,9 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav> -->
-<HomeView/>
+  <HomeView />
 
-<NavBar/>
+  <NavBar />
 
 </template>
 
@@ -15,9 +15,9 @@ import NavBar from './components/NavBar.vue';
 import HomeView from './views/HomeView.vue';
 
 
-export default{
+export default {
   name: 'App',
-  components :{
+  components: {
     HomeView,
     NavBar
 
