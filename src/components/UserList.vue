@@ -53,9 +53,7 @@ export default {
             this.loading = false;
             this.errorMessage = error;
         }
-
     }
-
 }
 </script>
 <style></style>
