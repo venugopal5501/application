@@ -13,7 +13,7 @@ const routes = [
   {
     path: '/employee',
     component: EmployeePage
-  },{
+  }, {
     path: '/users',
     component: UserList
   }
